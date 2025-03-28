@@ -2,9 +2,10 @@ body{
     font-size: 20px;
     line-height: 1.5;
     background-color: rgb(250, 255, 94);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
 img{
-    width: 200px;
+    width: 500px;
 }
