@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 
 body {
-    font-family: "Nosifer", sans-serif;
+    font-family: "Merriweather", serif;
     color: rgb(255, 0, 0);
     background-color: rgb(255, 255, 255);
  }
@@ -9,4 +9,6 @@ body {
 
     img {
         width: 500px;
+        display: block;
+        margin:auto
     }
